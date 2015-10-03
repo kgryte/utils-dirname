@@ -1,6 +1,6 @@
 {
   "name": "utils-dirname",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Returns a directory name.",
   "author": {
     "name": "Athan Reines",
